@@ -6,7 +6,7 @@ class TaskItem(QWidget):
         self.layout = QHBoxLayout()
 
         self.task_label = QLabel(task_name)
-        self.delete_button = QPushButton("Delete")
+        self.delete_button = QPushButton("Delete Task")
         self.delete_button.clicked.connect(delete_callback)
 
         self.layout.addWidget(self.task_label)

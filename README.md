@@ -28,5 +28,5 @@ Aplicaciònm de escritorio para la gestiòn de tareas (Agregar y eliminar tareas
 
 ### Correr la aplicación
 
-    ```bash
+   ```bash
    python main.py
