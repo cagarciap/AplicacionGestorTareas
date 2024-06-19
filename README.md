@@ -1,6 +1,6 @@
 # Gestor de Tareas
 
-Aplicaciònm de escritorio para la gestiòn de tareas (Agregar y eliminar tareas) usando PyQT5
+Aplicaciònm de escritorio para la gestión de tareas (Agregar y eliminar tareas) usando PyQT5
 
 ## Características
 
